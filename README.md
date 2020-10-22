@@ -2,7 +2,7 @@
 
 ### 🛠 Tecnologias mais usadas
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas são as mais usadas nas construções de projetos:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
