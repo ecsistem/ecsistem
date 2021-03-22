@@ -40,5 +40,5 @@ As seguintes ferramentas são as mais usadas nas construções de projetos:
 
 Feito com ❤️ por Edson Costa 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Edson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Edson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/edsoncostadev/) 
 [![Gmail Badge](https://img.shields.io/badge/-edson.13.10.2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edson.13.10.2004@gmail.com)](mailto:edson.13.10.2004@gmail.com)
