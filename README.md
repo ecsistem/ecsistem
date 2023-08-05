@@ -31,7 +31,7 @@ As seguintes ferramentas são as mais usadas nas construções de projetos:
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
-![snake gif](https://github.com//ecsistem/ecsistem/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ecsistem/ecsistem/blob/output/github-contribution-grid-snake.svg)
 
 
 <a href="https://instagram.com/ofc_edson_costa/">
