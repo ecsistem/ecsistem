@@ -50,7 +50,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283346048/compass_uol_logo?e=1709164800&v=beta&t=CBUV8slGpRMhZZ3QGsABJNXJC-bjqC8ZSqgJ2x-vSMo"/>](https://compass.uol/) 
 
 **Desenvolvedor Front-End (Estágio)** \
-[*Compass UOL**] • Part-time remoto \
+[**Compass UOL**] • Part-time remoto \
 Jul de 2023 - Atualmente \
 Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`,
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
