@@ -52,7 +52,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Front-End (Estágio)** \
 [*Compass UOL**] • Part-time remoto \
 Jul de 2023 - Atualmente \
-Linguagens & Tecnologias: `Typescript`, `Javascript`, `Racet`, `AWS`,
+Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`,
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br/>
 
