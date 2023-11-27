@@ -1,47 +1,75 @@
-<h1 align="center">👨‍💻Edson Costa</h1>
+<img src="./lineBar.png" width="100%" height="8px"/>
 
-### 🛠 Tecnologias mais usadas
+<h1> Hi there! Eu sou Edson Costa👋 </h1><br>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-As seguintes ferramentas são as mais usadas nas construções de projetos:
+## Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- ⚡ Apaixonado por Tecnologia, Esportes,e Música
+- 🎓 Cursando de Sistema de Informação na Universidade Federal do Pará
+- 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> pelo programa de bolsa da Compass.UOL
+- 💻 Confira meu [Portfólio](https://portfolio-styvison.vercel.app/)!
 
-### MY SKILLS
+<h2 align='left'>Meus contatos</h2> 
+<p align="left">
+<a href="mailto:edson.13.10.2004@gmail.cpm" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Gmail"/></a>
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-<br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-<br>
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-<br>
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+<a href="https://www.linkedin.com/in/edsoncostadev/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
 
-![snake gif](https://github.com/ecsistem/ecsistem/blob/output/image.svg)
+<a href="https://api.whatsapp.com/send?phone=5591982931178&text=Ol%C3%A1%20Edson,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" title="WhatsApp">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5591982931178&text=Ol%C3%A1%20Edson,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" alt="WhatsApp"/></a>
+
+<a href="https://www.instagram.com/ofc_edson_costa/" title="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ofc_edson_costa/" alt="Instagram"/></a>
+</p>
 
 
+## Minhas staks:
+<div display: "flex">
+  <img height="48px" width="48px" alt="Icone NestJS" src="https://skillicons.dev/icons?i=aws"/>
+  <img height="48px" width="48px" alt="Icone NestJS" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" width="48px" alt="Icone Node" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+  <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+</div>
 
-<a href="https://instagram.com/ofc_edson_costa/">
- <img style="border-radius: 50%;" src="#" width="100px;" alt=""/>
- <br />
- <sub><b>Edson Costa</b></sub></a> <a href="https://instagram.com/ofc_edson_costa/" title="Edson Costa">🚀</a>
+## Ferramentas que uso:
+[<img height="48px" width="48px" alt="Icone NestJS" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone wordpress" src="https://skillicons.dev/icons?i=wordpress"/>]()  
+
+## Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+<img align="left" height="94px" width="94px" alt="Warpnet" src="h[ttps://media.licdn.com/dms/image/D4D0BAQFGs0WBO4SFbg/company-logo_200_200/0/1699886747628?e=1709164800&v=beta&t=aKOhWUZ3OBzRZIEyfXN5VEi0XYyCFnMwZdkQfSvZLgs](https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283346048/compass_uol_logo?e=1709164800&v=beta&t=CBUV8slGpRMhZZ3QGsABJNXJC-bjqC8ZSqgJ2x-vSMo)"/>
+
+**Desenvolvedor Front-End (Estágio)** \
+[*Compass UOL**] • Part-time remoto \
+Jul de 2023 - Atualmente \
+Linguagens & Tecnologias: `Typescript`, `Javascript`, `Racet`, `AWS`,
+<!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://uploaddeimagens.com.br/images/004/674/587/full/xp_midia.jpg?1701033039"/>
+ 
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/styvison/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+## Estatísticas:
+<div align="center">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ecsistem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecsistem&layout=compact&langs_count=7&theme=radical"/>
+  <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=ecsistem&amp;theme=radical"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
 
 
-Feito com ❤️ por Edson Costa 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Edson_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/edsoncostadev/) 
-[![Gmail Badge](https://img.shields.io/badge/-edson.13.10.2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edson.13.10.2004@gmail.com)](mailto:edson.13.10.2004@gmail.com)
