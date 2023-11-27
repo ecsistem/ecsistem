@@ -49,7 +49,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="Warpnet" src="h[ttps://media.licdn.com/dms/image/D4D0BAQFGs0WBO4SFbg/company-logo_200_200/0/1699886747628?e=1709164800&v=beta&t=aKOhWUZ3OBzRZIEyfXN5VEi0XYyCFnMwZdkQfSvZLgs](https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283346048/compass_uol_logo?e=1709164800&v=beta&t=CBUV8slGpRMhZZ3QGsABJNXJC-bjqC8ZSqgJ2x-vSMo)"/>
+<img align="left" height="94px" width="94px" alt="Warpnet" src="[[https://media.licdn.com/dms/image/D4D0BAQFGs0WBO4SFbg/company-logo_200_200/0/1699886747628?e=1709164800&v=beta&t=aKOhWUZ3OBzRZIEyfXN5VEi0XYyCFnMwZdkQfSvZLgs](https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283346048/compass_uol_logo?e=1709164800&v=beta&t=CBUV8slGpRMhZZ3QGsABJNXJC-bjqC8ZSqgJ2x-vSMo)]([https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283346048/compass_uol_logo?e=1709164800&v=beta&t=CBUV8slGpRMhZZ3QGsABJNXJC-bjqC8ZSqgJ2x-vSMo](https://compass.uol/)"/>
 
 **Desenvolvedor Front-End (Estágio)** \
 [*Compass UOL**] • Part-time remoto \
