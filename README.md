@@ -58,10 +58,9 @@ Linguagens & Tecnologias: `Typescript`, `Javascript`, `Racet`, `AWS`,
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://uploaddeimagens.com.br/images/004/674/587/full/xp_midia.jpg?1701033039"/>
  
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/styvison/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/edsoncostadev/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## Estatísticas:
 <div align="center">
