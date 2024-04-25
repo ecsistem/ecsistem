@@ -1,0 +1,26 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Executar todos os dias às 6:00
+  workflow_dispatch:  # Evento para acionar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Update date.md
+        run: |
+          echo "$(date +'%Y-%m-%d %T') Daily commit" >> data.md
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "edson.13.10.2004@gmail.com"
+          git config --global user.name "Edson Costa"
+          git add date.md
+          git commit -m "Daily commit - $(date +'%Y-%m-%d')"
+          git push
