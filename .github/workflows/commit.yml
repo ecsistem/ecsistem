@@ -15,7 +15,7 @@ jobs:
       
       - name: Update date.md
         run: |
-          echo "$(date +'%Y-%m-%d %T') Daily commit" >> data.md
+          echo "$(date +'%Y-%m-%d %T') Daily commit" >> date.md
       
       - name: Commit and push changes
         run: |
