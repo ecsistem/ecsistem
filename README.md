@@ -2,11 +2,13 @@
 
 <h1> Hi there! Eu sou Edson Costa👋 </h1><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-## Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- ⚡ Apaixonado por Tecnologia, Esportes,e Música
+## Seja bem-vindo ao meu portfolio no GitHub. 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- ⚡ Apaixonado por Tecnologia, Esportes e Música
 - 🎓 Cursando de Sistema de Informação na Universidade Federal do Pará
-- 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> pelo programa de bolsa da Compass.UOL
+- 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> na Compass.UOL
 
 <h2 align='left'>Meus contatos</h2> 
 <p align="left">
