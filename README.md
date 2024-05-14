@@ -2,8 +2,6 @@
 
 <h1> Hi there! Eu sou Edson Costa👋 </h1><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-[![An image of @ecsistem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ecsistem)](https://holopin.io/@ecsistem)
-
 ## Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - ⚡ Apaixonado por Tecnologia, Esportes,e Música
