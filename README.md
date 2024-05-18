@@ -49,13 +49,12 @@
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-[<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://media.licdn.com/dms/image/C4D0BAQHr82VdoHECSg/company-logo_200_200/0/1650283346048/compass_uol_logo?e=1709164800&v=beta&t=CBUV8slGpRMhZZ3QGsABJNXJC-bjqC8ZSqgJ2x-vSMo"/>](https://compass.uol/) 
+[<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://th.bing.com/th/id/OIP.q0mi56G431gQ1R8rF322RgHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7"/>](https://compass.uol/) 
 
 **Desenvolvedor Front-End (Estágio)** \
 [**Compass UOL**] • Part-time remoto \
 Jul de 2023 - Atualmente \
 Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`,
-<!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br/>
 
  
