@@ -1,5 +1,4 @@
-<img src="./lineBar.png" width="100%" height="8px"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=header"/>
 <h1> Hi there! Eu sou Edson Costa👋 </h1><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -68,6 +67,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/edsoncostadev/)
   <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=ecsistem&amp;theme=radical"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=footer"/>
+
 
 
