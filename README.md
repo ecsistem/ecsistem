@@ -49,7 +49,6 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://th.bing.com/th/id/OIP.q0mi56G431gQ1R8rF322RgHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7"/>](https://compass.uol/) 
-<br/>
 **Desenvolvedor Front-End** \
 [**Compass UOL**] • Full-time remoto \
 Mai de 2024 - Atualmente \
