@@ -1,8 +1,8 @@
 name: Daily Commit
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # Executar todos os dias às 6:00
+  # schedule:
+  #   - cron: '0 6 * * *'  # Executar todos os dias às 6:00
   workflow_dispatch:  # Evento para acionar manualmente
 
 jobs:
