@@ -59,14 +59,14 @@ Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
 **Desenvolvedor Front-End** \
 [*Compass UOL*](https://compass.uol) • Full-time remoto \
 Mai de 2024 - Atualmente \
-Linguagens & Tecnologias: `Javascript`, `Java`, `Ruby`, `Vue.js`, `Azure`\
+Linguagens & Tecnologias: `Javascript`, `Java`, `Ruby`, `Vue.js`, `Azure`
 
 [<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://th.bing.com/th/id/OIP.q0mi56G431gQ1R8rF322RgHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7"/>](https://compass.uol/) 
 
 **Desenvolvedor Front-End (Estágio)** \
 [*Compass UOL*](https://compass.uol) • Part-time remoto \
 Jul de 2023 - Nov de 20223 \
-Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`\
+Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`
 
  
 
