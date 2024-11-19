@@ -48,20 +48,25 @@
 ## Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="92px" width="92px" alt="LinkJr" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=1738195200&v=beta&t=bjY1eMBzRQCjDysvIVEtTg5SRnY0VcY7j-vGF453MWU"/>](https://www.spacex.com/)
+
+**Desenvolvedor Full-Stack (Pleno)** \
+[*LinkJr*](https://linkjr.com.br/) • Part-time remoto \
+Aug 2024 -  Atualmente \
+Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
+
 [<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://th.bing.com/th/id/OIP.q0mi56G431gQ1R8rF322RgHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7"/>](https://compass.uol/) 
 **Desenvolvedor Front-End** \
-[**Compass UOL**] • Full-time remoto \
+[*Compass UOL*](https://compass.uol) • Full-time remoto \
 Mai de 2024 - Atualmente \
-Linguagens & Tecnologias: `Javascript`, `Java`, `Ruby`, `Vue.js`, `Azure`
-<br/>
+Linguagens & Tecnologias: `Javascript`, `Java`, `Ruby`, `Vue.js`, `Azure`\
 
 [<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://th.bing.com/th/id/OIP.q0mi56G431gQ1R8rF322RgHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7"/>](https://compass.uol/) 
 
 **Desenvolvedor Front-End (Estágio)** \
-[**Compass UOL**] • Part-time remoto \
+[*Compass UOL*](https://compass.uol) • Part-time remoto \
 Jul de 2023 - Nov de 20223 \
-Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`
-<br/>
+Linguagens & Tecnologias: `Typescript`, `Javascript`, `React.js`, `AWS`\
 
  
 
