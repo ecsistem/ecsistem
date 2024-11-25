@@ -11,7 +11,7 @@
 
 <h2 align='left'>Meus contatos</h2> 
 <p align="left">
-<a href="mailto:edson.13.10.2004@gmail.cpm" title="Gmail">
+<a href="mailto:contato@edsoncosta.online" title="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Gmail"/></a>
 
 <a href="https://www.linkedin.com/in/edsoncostadev/" title="LinkedIn">
