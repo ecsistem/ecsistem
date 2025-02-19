@@ -48,8 +48,8 @@
 ## Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="92px" width="92px" alt="LinkJr" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=1738195200&v=beta&t=bjY1eMBzRQCjDysvIVEtTg5SRnY0VcY7j-vGF453MWU"/>](https://www.spacex.com/)
 
+[<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://linkjr.com.br/favicon.ico"/>](https://linkjr.com.br/) 
 **Desenvolvedor Full-Stack** \
 [*LinkJr*](https://linkjr.com.br/) • Part-time remoto \
 Aug 2024 -  Atualmente \
